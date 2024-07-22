@@ -1,0 +1,35 @@
+{
+    "JIRA_PROJECTS":
+    [
+        "JIRAPROJECT1",
+        "JIRAPROJECT2"
+    ],
+    "JIRA_TYPE":
+    [
+        "\"Security Defect\"",
+        "\"Attribution Defect\"",
+        "Privacy",
+        "Bug"
+    ],
+    "JIRA_PRIORITIES":
+    [
+        "P0",
+        "P1",
+        "P2",
+        "P3"
+    ],
+    "watchers":
+    [
+        "user1",
+        "user2"
+    ],
+    "email_dl":
+    [
+        "myemail@email.com",
+    ],
+    "exception_jira_list":
+    [
+        "jira-id1",
+        "jira-id2"
+    ]
+}
